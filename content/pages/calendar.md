@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics, readings,
+  and due dates for papers and the final project.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
